@@ -33,7 +33,7 @@ A smart and automated university transportation system designed to **streamline 
 🔹 **Frontend:** React.js  
 🔹 **Backend:** Node.js  
 🔹 **Database:** Firebase
-🔹 **GPS Integration:** **Stonex Device** for real-time tracking  
+🔹 **GPS Integration:**  Stonex Device for real-time tracking  
 🔹 **QR Code Technology:** For digital ticketing  
 
 ---
