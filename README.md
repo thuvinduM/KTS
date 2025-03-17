@@ -31,9 +31,8 @@ A smart and automated university transportation system designed to **streamline 
 ## 🛠 Tech Stack  
 
 🔹 **Frontend:** React.js  
-🔹 **Backend:** Node.js & Express.js  
-🔹 **Database:** MongoDB  
-🔹 **Cloud Deployment:** Netlify  
+🔹 **Backend:** Node.js  
+🔹 **Database:** Firebase
 🔹 **GPS Integration:** **Stonex Device** for real-time tracking  
 🔹 **QR Code Technology:** For digital ticketing  
 
